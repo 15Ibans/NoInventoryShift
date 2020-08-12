@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noinventoryshift",
+  "name": "NoInventoryShift",
+  "description": "Prevents inventory from shifting when you have potion effects",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["15Ibans"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
